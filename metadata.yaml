@@ -1,0 +1,26 @@
+_repo: The-Crisis-of-the-Naval-War_10409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jellicoe, John Rushworth Jellicoe, Earl
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '3521'
+    url: http://www.gutenberg.org/2009/agents/3521
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- !lcsh 'World War, 1914-1918 -- Naval operations, British'
+- GITenberg
+title: The Crisis of the Naval War
+url: http://www.gutenberg.org/ebooks/10409
